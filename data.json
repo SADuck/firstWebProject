@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Santorini Sunset",
+    "category": "Beach",
+    "image": "https://picsum.photos/seed/santorini/800/600",
+    "price": 1200,
+    "rating": 4.8,
+    "description": "Experience the world-famous sunsets of Santorini. Whitewashed buildings, blue domes, and crystal clear waters await you in this Greek paradise.",
+    "amenities": ["Ocean View", "Free Breakfast", "Pool", "Wi-Fi"]
+  },
+  {
+    "id": "2",
+    "name": "Kyoto Ancient Temples",
+    "category": "City",
+    "image": "https://picsum.photos/seed/kyoto/800/600",
+    "price": 1500,
+    "rating": 4.9,
+    "description": "Immerse yourself in Japanese history. Visit Kinkaku-ji, Fushimi Inari-taisha, and enjoy traditional tea ceremonies in the heart of Kyoto.",
+    "amenities": ["Guided Tours", "Cultural Workshops", "Near Transit", "Concierge"]
+  },
+  {
+    "id": "3",
+    "name": "Swiss Alps Adventure",
+    "category": "Mountain",
+    "image": "https://picsum.photos/seed/swiss/800/600",
+    "price": 2000,
+    "rating": 5.0,
+    "description": "Ski, hike, or simply relax in the breathtaking Swiss Alps. Perfect for adventure seekers and luxury travelers alike.",
+    "amenities": ["Ski-in/Ski-out", "Spa", "Fireplace", "Mountain View"]
+  },
+  {
+    "id": "4",
+    "name": "Maui Beach Resort",
+    "category": "Beach",
+    "image": "https://picsum.photos/seed/maui/800/600",
+    "price": 2500,
+    "rating": 4.7,
+    "description": "Relax on the pristine beaches of Maui. Snorkeling, surfing, and luau nights make this the perfect tropical getaway.",
+    "amenities": ["Private Beach", "All Inclusive", "Water Sports", "Kids Club"]
+  },
+  {
+    "id": "5",
+    "name": "New York City Escape",
+    "category": "City",
+    "image": "https://picsum.photos/seed/nyc/800/600",
+    "price": 1800,
+    "rating": 4.6,
+    "description": "The city that never sleeps. Broadway shows, world-class dining, and iconic landmarks like the Statue of Liberty.",
+    "amenities": ["City Center", "Rooftop Bar", "Gym", "Business Center"]
+  },
+  {
+    "id": "6",
+    "name": "Banff National Park",
+    "category": "Mountain",
+    "image": "https://picsum.photos/seed/banff/800/600",
+    "price": 1300,
+    "rating": 4.9,
+    "description": "Explore the rugged beauty of the Canadian Rockies. Turquoise lakes, glaciers, and abundant wildlife.",
+    "amenities": ["Hiking Trails", "Cabin Style", "Pet Friendly", "Parking"]
+  }
+]
